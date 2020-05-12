@@ -51,7 +51,7 @@ function getTableData(table) {
         name: "Confirmed Cases",
         type: "lollipop",
         data: data[1],
-        color: "orange"
+        color: "#33FFE0"
         },
         {
         name: "Deaths",
